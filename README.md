@@ -1,5 +1,6 @@
 # Album-covers-downloader
 Download your favourite album covers using Deezer's api
+Only works with Deezer for the time being
 ## Requirements 
 Install requests on your system:
 ```
