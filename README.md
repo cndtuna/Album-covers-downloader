@@ -10,7 +10,7 @@ pip install requests
 2. Change directory to where you save `album_cover_downloader.py`
 3. Enter the album ID
 ```
-To find the album ID, you will need the last string of numbers in the album link on Deezer
+To find the album ID, you will need the last string of numbers in the album link
 Example: www.deezer.com/en/album/369465467
 "369465467" is your album ID
 ```
