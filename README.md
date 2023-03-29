@@ -1,5 +1,5 @@
 # Album-covers-downloader
-Download your favourite album covers using Deezer's api
+A Python script to download your favourite album covers using Deezer's api 
 
 Only works with Deezer for the time being
 ## Requirements
