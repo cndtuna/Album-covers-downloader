@@ -12,7 +12,10 @@ pip install requests
 ## Instruction
 1. Use CMD or Powershell
 2. Change directory to where you save `album_cover_downloader.py`
-3. Run `python album_cover_downloader.py`
+3. Run:
+```
+python album_cover_downloader.py
+```
 4. Enter the album ID
 ```
 To find the album ID, you will need the last string of numbers in the album link
